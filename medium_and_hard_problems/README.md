@@ -1,4 +1,4 @@
-# cdc-swayam
+# DSA-Assignment
 
 This repository contains solutions for the **SWAYAM DSA Practice Sheet** organized by topics.
 
@@ -8,23 +8,5 @@ This repository contains solutions for the **SWAYAM DSA Practice Sheet** organiz
 - Recursion (Basic & Advanced)
 - Matrix Operations
 
-Each folder includes:
-- Problem-wise `.java` files
-- Clear file naming format: `<ProblemNumber>_<ProblemTitle>.java`
-- Placeholder files for yet-to-be-added solutions
+and many more
 
----
-🧑‍💻 **Usage**
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/cdc-swayam.git
-   ```
-2. Compile any problem using:
-   ```bash
-   javac Array/Array_I/01_ReverseArray.java
-   java Solution
-   ```
-
----
-**Author:** B.Tech 3rd Year - SWAYAM DSA Practice  
-**Completion Window:** Oct–Nov 2025
